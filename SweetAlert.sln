@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33919.361
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SweetAlert", "SweetAlert\", "{F33EB73B-5959-4744-921A-12A5DF19CBAA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64327"
+		Debug.AspNetCompiler.PhysicalPath = "SweetAlert\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64327\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64327"
+		Release.AspNetCompiler.PhysicalPath = "SweetAlert\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64327\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64327"
+		SlnRelativePath = "SweetAlert\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F33EB73B-5959-4744-921A-12A5DF19CBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33EB73B-5959-4744-921A-12A5DF19CBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95677F6D-0121-49E6-9E55-4054099C2135}
+	EndGlobalSection
+EndGlobal
